@@ -16,7 +16,7 @@ public class Day2HWDemo1 {
 		
 		/**
 		
-		Pushing the commment to see it when I pull it 
+		Pushing the comment to see it when I pull it 
 		
 		*/
 	}
